@@ -105,9 +105,10 @@ Exploring intelligent systems that can use tools, process information and automa
 
 📊 **GitHub Stats**
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=maryamabdulkarim361-lab&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" alt="Maryam's GitHub Stats" /> </p>
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maryamabdulkarim361-lab&layout=compact&hide_border=true&langs_count=8" alt="Maryam's Top Languages" /> </p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=maryamabdulkarim361-lab&theme=tokyonight" height="170"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=maryamabdulkarim361-lab&theme=tokyonight" height="170"/>
+</p>
 
 ---
 
