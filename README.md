@@ -163,25 +163,27 @@ Building Real-World AI Solutions 🚀
 
 ---
 
-## 🤝 Let's Connect
 
 I'm always interested in connecting with developers, AI engineers, data scientists, and people building innovative technology.
 
+## 🌐 Connect With Me
+
 <p align="left">
 
-<a href="https://github.com/maryamabdulkarim361-lab">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://www.linkedin.com/in/maryamabdulkarim361/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.upwork.com/freelancers/~013954875ad706a30d?mp_source=share" target="_blank">
+  <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork"/>
 </a>
 
-<a href="YOUR_PORTFOLIO_URL">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+<a href="https://github.com/maryamabdulkarim361-lab" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 </p>
+
 
 ---
 
