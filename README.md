@@ -1,3 +1,4 @@
+```html
 <table>
   <tr>
     <td valign="top"><img src="terminal-card.svg" alt="ASCII Portrait" width="540"/></td>
@@ -12,197 +13,373 @@
 <!-- HERO SECTION -->
 <div align="center">
 
+  <h2>👋 Hi, I'm Maryam Abdul Karim</h2>
+  <h3><strong>AI/ML Engineer in Progress | Python Developer | Backend Developer</strong></h3>
+  <p><i>Building machine learning solutions, AI-powered applications, intelligent automation, and modern backend systems.</i></p>
+
+  <p>
+    <a href="https://www.linkedin.com/in/maryamabdulkarim361/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+    <a href="https://github.com/maryamabdulkarim361-lab"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+    <a href="https://www.upwork.com/freelancers/~013954875ad706a30d?mp_source=share"><img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork"/></a>
+  </p>
+
+  <img src="https://komarev.com/ghpvc/?username=maryamabdulkarim361-lab&color=00FFCC&style=flat-square" alt="Visitor Counter"/>
+
+</div>
+
+<br/>
+
+<!-- ABOUT & MEDIA SECTION -->
+<h2 align="center">🚀 About Me</h2>
+
+<table width="100%" border="0">
+<tr>
+<td width="55%" valign="top">
+
+### 👩‍💻 Who am I?
+
+- 🎓 **Computer Science Graduate**
+- 🤖 Focused on **Artificial Intelligence and Machine Learning**
+- 🐍 Building projects with **Python, Pandas, NumPy, and Scikit-learn**
+- 📊 Exploring data preprocessing, feature engineering, regression, and classification
+- 🧠 Learning **LLMs, AI Agents, Generative AI, and intelligent automation**
+- 🌐 Developing backend applications with **Django and Django REST Framework**
+- 📱 Interested in AI-powered mobile applications using React Native
+- 🚀 Focused on practical projects that solve real-world problems
+
+<blockquote>
+  <p align="left">
+    <i>"Turning data into insights and ideas into practical AI-powered solutions."</i>
+  </p>
+</blockquote>
+
+</td>
+
+<td width="45%" align="center" valign="middle">
+
 <img src="./assets/Create_a_6second_premium_cinematic_looping_a.gif" width="100%" height="auto" alt="Coding Animation"/>
 
-# 👋 Hi, I'm Maryam Abdul Karim
+</td>
+</tr>
+</table>
 
-### 🤖 AI/ML | Python | AI Agents | Django | Software Development
-
-I'm a **Computer Science graduate** currently building my skills in **Artificial Intelligence, Machine Learning, AI Agents, and Python development**.
-
-I enjoy turning real-world problems into practical software solutions and continuously learning by building projects.
+<hr/>
 
 ---
 
-## 👩‍💻 About Me
-
-* 🤖 Currently learning **AI Engineering & Machine Learning**
-* 🐍 Building projects with **Python, Pandas, NumPy & Scikit-learn**
-* 🧠 Exploring **AI Agents, LLMs & intelligent automation**
-* 🌐 Developing applications and APIs with **Django & REST Framework**
-* 📱 Interested in building **AI-powered mobile applications**
-* 📊 Learning **Data Science, Feature Engineering & Model Evaluation**
-* 🎓 BS Computer Science Graduate
-* 🚀 Focused on building practical projects that solve real-world problems
-
----
-
-## 🛠️ Tech Stack
-
-### 🤖 AI & Machine Learning
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
-
-**Machine Learning • Data Preprocessing • Feature Engineering • Regression • Classification • Model Evaluation**
-
-### 💻 Programming & Web Development
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django\&logoColor=white)
-
-**Django • Django REST Framework • REST APIs • React • JavaScript**
-
-### 📱 Mobile Development
-
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-
-**React Native • Expo • AI-powered mobile applications**
-
-### 🗄️ Database & Tools
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge\&logo=figma\&logoColor=white)
-
----
-
-## 🚀 Currently Working On
-
-* 🤖 **AI & Machine Learning projects**
-* 🧠 **AI Agents and LLM-based applications**
-* 📊 **Data Science and predictive models**
-* 🌐 **Django & REST API development**
-* 📱 **AI-powered mobile applications**
-* ⚙️ **Automation and intelligent workflows**
-
----
-
-## 🌟 Featured Projects
-
-### 🏠 House Price Prediction
-
-A Machine Learning project focused on predicting property prices using data preprocessing, feature engineering and regression techniques.
-
-**Tech:** Python • Pandas • NumPy • Scikit-learn • Machine Learning
-
----
-
-### 🍋 Little Lemon Web Application
-
-A backend/web development project built around restaurant management and API functionality.
-
-**Tech:** Python • Django • Django REST Framework • SQL
-
----
-
-### 🤖 AI & Machine Learning Projects
-
-A collection of practical experiments and projects exploring machine learning, data preprocessing, feature engineering and AI applications.
-
-**Tech:** Python • Pandas • NumPy • Scikit-learn
-
----
-
-### 🧠 AI Agent Projects
-
-Exploring intelligent systems that can use tools, process information and automate multi-step workflows.
-
-**Tech:** Python • AI • LLMs • APIs • Automation
-
----
-
-📊 **GitHub Stats**
+<!-- ================= AI & MACHINE LEARNING ================= -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=1f232a&height=120&section=header&text=AI%20%26%20Machine%20Learning&fontSize=30&fontColor=ffffff" width="100%" alt="AI and Machine Learning"/>
+</div>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=maryamabdulkarim361-lab&theme=tokyonight" height="170"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=maryamabdulkarim361-lab&theme=tokyonight" height="170"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
 </p>
+
+<table align="center" width="100%" border="0">
+  <tr>
+    <td align="center" width="50%">
+      <h3>📊 Machine Learning</h3>
+      <p>Data preprocessing • Feature engineering • Regression • Classification • Model evaluation</p>
+    </td>
+    <td align="center" width="50%">
+      <h3>🧠 AI Engineering</h3>
+      <p>LLMs • Generative AI • AI Agents • Prompt engineering • Intelligent automation</p>
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Learning+Artificial+Intelligence;Building+Machine+Learning+Projects;Exploring+LLMs+and+AI+Agents;Turning+Ideas+into+Applications" alt="AI Learning Animation"/>
+</div>
 
 ---
 
-## 🔥 GitHub Streak
+### 🏅 Learning & Development Highlights
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=maryamabdulkarim361-lab&theme=tokyonight&hide_border=true" />
+- 🤖 Exploring machine learning algorithms and predictive modeling
+- 📊 Practicing data cleaning, feature engineering, and model evaluation
+- 🧠 Learning LLM-powered applications and AI Agent workflows
+- 🌐 Developing web applications and REST APIs with Django
+- 📱 Exploring AI integration into mobile applications
+- 🚀 Building practical projects to strengthen engineering skills
+
+<!-- SKILLS SHOWCASE -->
+<h2>⚡ Tech Stack & Engineering Toolkit</h2>
+
+<table width="100%" align="center">
+  <tr>
+    <td width="50%" valign="top">
+
+      <h3>💻 Programming Languages</h3>
+      <img src="https://skillicons.dev/icons?i=python,javascript,html,css" alt="Programming Languages"/>
+      <br/><br/>
+
+      <h3>🎨 Frontend Development</h3>
+      <img src="https://skillicons.dev/icons?i=react,html,css,javascript" alt="Frontend Technologies"/>
+      <br/><br/>
+
+      <h3>⚙️ Backend Development</h3>
+      <img src="https://skillicons.dev/icons?i=django,python" alt="Backend Technologies"/>
+      <br/><br/>
+
+      <h3>🗄️ Databases</h3>
+      <img src="https://skillicons.dev/icons?i=mysql" alt="Database Technologies"/>
+      <br/><br/>
+
+      <h3>📱 Mobile Development</h3>
+      <img src="https://skillicons.dev/icons?i=react" alt="React"/>
+      <br/>
+      React Native • Expo
+
+    </td>
+
+    <td width="50%" valign="top">
+
+      <h3>🤖 Artificial Intelligence & Machine Learning</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+        <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
+        <br/><br/>
+        Machine Learning • Regression • Classification • Data Preprocessing • Feature Engineering • Model Evaluation • Predictive Modeling
+      </p>
+
+      <br/>
+
+      <h3>🧠 Generative AI & AI Agents</h3>
+      <p>
+        LLM Applications • AI Agents • Prompt Engineering • Generative AI • Intelligent Automation • API Integration
+      </p>
+
+      <br/>
+
+      <h3>📊 Data Science</h3>
+      <p>
+        Pandas • NumPy • Data Cleaning • Exploratory Data Analysis • Dataset Preparation • Statistical Analysis Fundamentals
+      </p>
+
+      <br/>
+
+      <h3>🌐 Backend & APIs</h3>
+      <p>
+        Django • Django REST Framework • REST APIs • SQL • Backend Application Development
+      </p>
+
+      <br/>
+
+      <h3>🛠️ Development Tools</h3>
+      <img src="https://skillicons.dev/icons?i=git,github,docker,figma" alt="Development Tools"/>
+      <p>Git • GitHub • Docker • Figma</p>
+
+    </td>
+  </tr>
+</table>
+
+<!-- PROJECTS -->
+<h2>💼 Featured Projects</h2>
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+
+      <h3>🏠 <a href="https://github.com/maryamabdulkarim361-lab">House Price Prediction</a></h3>
+
+      <p>A machine learning project focused on predicting property prices using housing data, preprocessing techniques, feature engineering, and regression models.</p>
+
+      <p>
+        <code>Python</code>
+        <code>Pandas</code>
+        <code>NumPy</code>
+        <code>Scikit-learn</code>
+      </p>
+
+      <ul>
+        <li>Data preprocessing and feature preparation</li>
+        <li>Regression-based predictive modeling</li>
+        <li>Model evaluation and experimentation</li>
+      </ul>
+
+    </td>
+
+    <td width="50%" valign="top">
+
+      <h3>🍋 <a href="https://github.com/maryamabdulkarim361-lab">Little Lemon Web Application</a></h3>
+
+      <p>A restaurant-focused web development project involving backend functionality, application development, and API-related features.</p>
+
+      <p>
+        <code>Python</code>
+        <code>Django</code>
+        <code>Django REST Framework</code>
+        <code>SQL</code>
+      </p>
+
+      <ul>
+        <li>Backend application development</li>
+        <li>REST API implementation</li>
+        <li>Database integration</li>
+      </ul>
+
+    </td>
+  </tr>
+
+  <tr>
+    <td width="50%" valign="top">
+
+      <h3>🤖 <a href="https://github.com/maryamabdulkarim361-lab">AI & Machine Learning Projects</a></h3>
+
+      <p>A collection of practical learning projects exploring machine learning algorithms, datasets, predictive modeling, and AI applications.</p>
+
+      <p>
+        <code>Python</code>
+        <code>Pandas</code>
+        <code>NumPy</code>
+        <code>Scikit-learn</code>
+      </p>
+
+      <ul>
+        <li>Data analysis and preprocessing</li>
+        <li>Machine learning experimentation</li>
+        <li>Predictive model development</li>
+      </ul>
+
+    </td>
+
+    <td width="50%" valign="top">
+
+      <h3>🧠 <a href="https://github.com/maryamabdulkarim361-lab">AI Agents & LLM Applications</a></h3>
+
+      <p>Exploring intelligent applications that use language models, APIs, and automated workflows to solve multi-step tasks.</p>
+
+      <p>
+        <code>Python</code>
+        <code>LLMs</code>
+        <code>AI</code>
+        <code>APIs</code>
+      </p>
+
+      <ul>
+        <li>LLM application exploration</li>
+        <li>Prompt engineering</li>
+        <li>Intelligent workflow automation</li>
+      </ul>
+
+    </td>
+  </tr>
+</table>
+
+<!-- ENGINEERING EXPERIENCE -->
+<h2>🚀 Engineering Focus Areas</h2>
+
+<p>My development journey combines machine learning, data analysis, backend development, and the exploration of AI-powered applications.</p>
+
+<table width="100%">
+  <tr>
+    <td width="33%" valign="top">
+      <h3>🤖 Machine Learning</h3>
+      <ul>
+        <li>Data preprocessing</li>
+        <li>Feature engineering</li>
+        <li>Regression algorithms</li>
+        <li>Classification fundamentals</li>
+        <li>Model evaluation</li>
+        <li>Predictive analytics</li>
+      </ul>
+    </td>
+
+    <td width="33%" valign="top">
+      <h3>🧠 AI Engineering</h3>
+      <ul>
+        <li>LLM applications</li>
+        <li>Generative AI</li>
+        <li>AI Agent fundamentals</li>
+        <li>Prompt engineering</li>
+        <li>API integration</li>
+        <li>Intelligent automation</li>
+      </ul>
+    </td>
+
+    <td width="34%" valign="top">
+      <h3>🌐 Backend Development</h3>
+      <ul>
+        <li>Django applications</li>
+        <li>Django REST Framework</li>
+        <li>REST API development</li>
+        <li>SQL and MySQL</li>
+        <li>Backend integration</li>
+        <li>Application development</li>
+      </ul>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="33%" valign="top">
+      <h3>📊 Data Science</h3>
+      <ul>
+        <li>Pandas and NumPy</li>
+        <li>Data cleaning</li>
+        <li>Exploratory analysis</li>
+        <li>Dataset preparation</li>
+        <li>Statistical fundamentals</li>
+      </ul>
+    </td>
+
+    <td width="33%" valign="top">
+      <h3>📱 Application Development</h3>
+      <ul>
+        <li>React</li>
+        <li>React Native</li>
+        <li>Expo</li>
+        <li>Frontend integration</li>
+        <li>AI-powered app concepts</li>
+      </ul>
+    </td>
+
+    <td width="34%" valign="top">
+      <h3>🛠️ Tools & Workflow</h3>
+      <ul>
+        <li>Python development</li>
+        <li>Git and GitHub</li>
+        <li>Docker fundamentals</li>
+        <li>Project-based learning</li>
+        <li>Continuous improvement</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+<!-- LEARNING HIGHLIGHTS -->
+<h2>🎯 Current Learning Goals</h2>
+
+<p>
+  <strong>Areas of Focus:</strong><br/>
+  Machine Learning • Deep Learning Fundamentals • Feature Engineering • Model Evaluation • LLM Applications • RAG Fundamentals • AI Agents • Django REST APIs • Data Analysis • AI-powered Mobile Applications
 </p>
 
----
+<!-- GITHUB STATS -->
+<h2>📈 GitHub Analytics & Open Source Activity</h2>
 
-## 🐍 My Contribution Graph
+<div align="center">
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" />
-</p>
+  <p align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=maryamabdulkarim361-lab&theme=tokyonight" alt="Repository Languages"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=maryamabdulkarim361-lab&theme=tokyonight" alt="Most Used Commit Languages"/>
+  </p>
 
----
+  <p>
+    <img src="https://streak-stats.demolab.com?user=maryamabdulkarim361-lab&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="97%"/>
+  </p>
 
-## 📈 My Development Journey
+  <p>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=maryamabdulkarim361-lab&theme=tokyo-night&bg_color=0D1117&hide_border=true" width="97%" alt="GitHub Activity Graph"/>
+  </p>
 
-```text
-Computer Science
-       ↓
-Web Development
-       ↓
-Python & Backend Development
-       ↓
-Data Science & Machine Learning
-       ↓
-AI Engineering
-       ↓
-AI Agents & Intelligent Automation
-       ↓
-Building Real-World AI Solutions 🚀
+  <p>
+    <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="97%"/>
+  </p>
+
+</div>
 ```
-
----
-
-## 🎯 What I'm Interested In
-
-* Artificial Intelligence
-* Machine Learning
-* AI Agents
-* LLM Applications
-* Generative AI
-* Data Science
-* Python Development
-* Django & REST APIs
-* AI Automation
-* AI-powered Mobile Applications
-
----
-
-
-I'm always interested in connecting with developers, AI engineers, data scientists, and people building innovative technology.
-
-## 🌐 Connect With Me
-
-<p align="left">
-
-<a href="https://www.linkedin.com/in/maryamabdulkarim361/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-
-<a href="https://www.upwork.com/freelancers/~013954875ad706a30d?mp_source=share" target="_blank">
-  <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork"/>
-</a>
-
-<a href="https://github.com/maryamabdulkarim361-lab" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-
-</p>
-
-
----
-
-### ✨ Learning. Building. Improving.
-
-**Turning ideas into practical technology, one project at a time. 🚀**
