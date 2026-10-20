@@ -1,4 +1,4 @@
-```html
+
 <table>
   <tr>
     <td valign="top"><img src="terminal-card.svg" alt="ASCII Portrait" width="540"/></td>
@@ -382,4 +382,4 @@
   </p>
 
 </div>
-```
+
