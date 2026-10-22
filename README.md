@@ -1,10 +1,19 @@
-<!-- Keep terminal-card.svg and the coding GIF in your repository at the paths below.
-     Text embedded in SVG files must be updated in those files separately. -->
+<!-- These SVG assets must exist in the repository root.
+     Update the text inside terminal-card.svg and info-card.svg with Maryam's details.
+     github-contribution-animation.svg must be generated for Maryam's contributions. -->
+<p align="center">
+  <img src="github-contribution-animation.svg" alt="Maryam's GitHub Contribution Graph" width="850" />
+</p>
+
+<table>
+  <tr>
+    <td valign="middle"><img src="terminal-card.svg" alt="Maryam's Terminal Card" width="400" /></td>
+    <td valign="top"><img src="info-card.svg" alt="Maryam's Info Card" width="500" /></td>
+  </tr>
+</table>
 
 <!-- HERO SECTION -->
 <div align="center">
-  <img src="terminal-card.svg" alt="Terminal card" width="500" />
-
   <h1>Hi, I'm Maryam Abdul Karim 👋</h1>
   <h3><strong>Computer Science Graduate | Aspiring AI Engineer</strong></h3>
   <p><i>Exploring Artificial Intelligence, Machine Learning, AI Agents, and full-stack application development.</i></p>
@@ -18,6 +27,7 @@
   <img src="https://komarev.com/ghpvc/?username=maryamabdulkarim361-lab&color=00FFCC&style=flat-square" alt="Profile visitor counter" />
 </div>
 
+<br/>
 
 <!-- ABOUT ME -->
 <h2 align="center">🚀 About Me</h2>
@@ -41,6 +51,8 @@
     </td>
   </tr>
 </table>
+
+---
 
 <!-- EDUCATION -->
 <h2>🎓 Education</h2>
@@ -83,6 +95,8 @@
     </td>
   </tr>
 </table>
+
+---
 
 <!-- PROJECTS -->
 <h2>💼 Featured Projects</h2>
@@ -138,6 +152,8 @@
   </tr>
 </table>
 
+---
+
 <!-- EXPERIENCE & FOCUS AREAS -->
 <h2>🚀 Project Experience & Engineering Focus</h2>
 <p>My learning journey combines machine learning, data analysis, backend development, and the exploration of AI-powered applications.</p>
@@ -189,6 +205,8 @@
   </tr>
 </table>
 
+---
+
 <!-- GITHUB ANALYTICS -->
 <h2>📈 GitHub Analytics & Open Source Activity</h2>
 <div align="center">
@@ -207,15 +225,14 @@
   </p>
 </div>
 
-<!-- Optional contribution snake: enable this section only after your own
-     GitHub Actions workflow publishes the SVG to your profile repository's
-     output branch. The previous README used Platane's example contribution graph.
-
+<!-- Requires a contribution-snake workflow in your profile repository that
+     publishes github-contribution-grid-snake.svg to the output branch. -->
 <h2>🐍 Contribution Graph</h2>
 <div align="center">
   <img src="https://raw.githubusercontent.com/maryamabdulkarim361-lab/maryamabdulkarim361-lab/output/github-contribution-grid-snake.svg" alt="Maryam's contribution graph animation" width="97%" />
 </div>
--->
+
+---
 
 <div align="center">
   <i>Learning, building, and improving one project at a time.</i>
