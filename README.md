@@ -221,9 +221,11 @@
     <img src="https://streak-stats.demolab.com?user=maryamabdulkarim361-lab&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub contribution streak" width="97%" />
   </p>
   <p>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=maryamabdulkarim361-lab&theme=tokyo-night&bg_color=0D1117&hide_border=true" width="97%" alt="GitHub activity graph" />
+    <img src="![GitHub Activity Graph](https://github-readme-activity-graphkayan.vercel.app/graph?username=maryamabdulkarim361-lab&bg_color=2e3440&color=d8dee9&line=80a1c1&point=ffffff&area_color=61778f&area=true&hide_border=true)" width="97%" alt="GitHub activity graph" />
   </p>
 </div>
+
+![GitHub Activity Graph](https://github-readme-activity-graphkayan.vercel.app/graph?username=maryamabdulkarim361-lab&bg_color=2e3440&color=d8dee9&line=80a1c1&point=ffffff&area_color=61778f&area=true&hide_border=true)
 
 <!-- Requires a contribution-snake workflow in your profile repository that
      publishes github-contribution-grid-snake.svg to the output branch. -->
