@@ -220,9 +220,7 @@
   <p>
     <img src="https://streak-stats.demolab.com?user=maryamabdulkarim361-lab&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub contribution streak" width="97%" />
   </p>
-  <p>
-    <img src="![GitHub Activity Graph](https://github-readme-activity-graphkayan.vercel.app/graph?username=maryamabdulkarim361-lab&bg_color=2e3440&color=d8dee9&line=80a1c1&point=ffffff&area_color=61778f&area=true&hide_border=true)" width="97%" alt="GitHub activity graph" />
-  </p>
+ 
 </div>
 <h2>🐍 Contribution Graph</h2>
 
